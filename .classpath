@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre6"/>
+	<classpathentry exported="true" kind="lib" path="lib/bluecove-2.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cldcapi10.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cldcapi11.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/j2me-ws.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/j2me-xmlrpc.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jour-instrument-2.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jsr082.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jsr179.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jsr180.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jsr184.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jsr211.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jsr226.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jsr229.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jsr234.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jsr238.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jsr239.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jsr75.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/microemu-javase-applet-2.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/microemu-midp-2.0.3-4applet.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/midpapi10.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/midpapi20.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/midpapi21.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mmapi.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/satsa-apdu.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/satsa-crypto.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/satsa-jcrmi.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/satsa-pki.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/wma11.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/wma20.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mysql-connector-java-3.1.11.jar"/>
+	<classpathentry exported="true" kind="con" path="com.google.gdt.eclipse.managedapis.MANAGED_API_CONTAINER/gdata-calendar-2.0"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Aniket/Downloads/comm2.0.3/comm.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
